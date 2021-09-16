@@ -1,0 +1,2 @@
+# rockgo
+go tools fun
